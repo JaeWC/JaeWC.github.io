@@ -2,7 +2,7 @@
 layout: post
 title: "[recursion] 02. stringifyJSON"
 subtitle:   "Recursion"
-categories: javascript
+categories: JS
 tags: Recursion
 comments: true
 ---

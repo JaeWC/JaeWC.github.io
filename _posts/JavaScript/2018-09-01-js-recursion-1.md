@@ -2,7 +2,7 @@
 layout: post
 title: "[recursion] 01. getElementsByClassName"
 subtitle:   "Recursion"
-categories: javascript
+categories: JS
 tags: Recursion
 comments: true
 ---
