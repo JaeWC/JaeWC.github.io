@@ -2,7 +2,7 @@
 layout: post
 title: "[Underscore.js] 02. Array Function"
 subtitle:   "Underscore"
-categories: JS
+categories: javascript
 tags: Underscore
 comments: true
 ---

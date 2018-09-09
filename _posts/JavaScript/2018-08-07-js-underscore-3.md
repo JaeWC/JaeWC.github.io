@@ -2,7 +2,7 @@
 layout: post
 title: "[Underscore.js] 03. Collection Function"
 subtitle:   "Underscore"
-categories: JS
+categories: javascript
 tags: Underscore
 comments: true
 ---
