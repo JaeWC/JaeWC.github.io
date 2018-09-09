@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "[Underscore.js] 01. underscore, Utility Function"
-subtitle:   "Javascript"
+subtitle:   "Underscore"
 categories: javascript
 tags: Underscore
 comments: true
