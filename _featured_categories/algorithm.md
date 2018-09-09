@@ -2,7 +2,7 @@
 layout: list
 title: Algorithm
 slug: algorithm
-menu: false
+menu: true
 submenu: false
 order: 2
 description: >

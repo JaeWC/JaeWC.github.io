@@ -18,8 +18,8 @@ tagline:             사회과학도 개발자되기
 # A short description of the page, used in the sidebar and as fallback for the meta description tag.
 # Markdown enabled, but don't use more than one paragraph (enforced by `>`)
 description:         >
-  # 게으르기 때문에 게발자.
-  # 글쓰는 걸 좋아하고, 디자인과 개발을 좋아한다.
+  공부를 하며 작성하는 블로그입니다.
+  잘못된 내용은 언제든지 댓글 남겨주세요.
 
 # This should be the same author as first entry in `_data/authors.yml`
 author:
