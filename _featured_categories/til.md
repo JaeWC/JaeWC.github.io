@@ -6,5 +6,5 @@ menu: true
 submenu: false
 order: 1
 description: >
-  보고 사용한것들을 리뷰합니다. 라이트한 축에 속하는 하드웨어덕이며, 술, 맛집 등을 좋아합니다.
+  Page for Today I Learned. Also linked to my Github Page for detailed contents
 ---

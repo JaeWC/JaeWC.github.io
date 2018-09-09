@@ -6,5 +6,5 @@ menu: true
 submenu: false
 order: 6
 description: >
-  여러 팁들을 공유합니다.
+  Any contents that are not categorized.
 ---
