@@ -59,7 +59,7 @@ JaeWC:
     # stumbleupon:     <username>
     # paypal:          <username>
     email:           mailto:j.thechois@gmail.com
-    rss:             https://jaewc.github.io/feed.xml
+    # rss:             https://jaewc.github.io/feed.xml
 
 # Another author
 mdo:
