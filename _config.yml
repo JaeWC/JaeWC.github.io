@@ -2,7 +2,7 @@
 #  User configuration
 # -----------------------------------------------------------------------------
 
-title:               J의 개발노트
+title:               J.
 
 # The unique resource location of your page.
 # Set to `https://<username>.github.io` when hosting on GitHub Pages
@@ -13,12 +13,12 @@ url:                 https://jaewc.github.io
 baseurl:             ""
 
 # A very short description of your page
-tagline:             사회과학도 개발자되기
+tagline:             To Become Engineer
 
 # A short description of the page, used in the sidebar and as fallback for the meta description tag.
 # Markdown enabled, but don't use more than one paragraph (enforced by `>`)
 description:         >
-  공부를 하며 작성하는 블로그입니다.
+  공부하며 작성하는 블로그입니다.
   잘못된 내용은 언제든지 댓글 남겨주세요.
 
 # This should be the same author as first entry in `_data/authors.yml`

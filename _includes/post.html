@@ -31,12 +31,7 @@
   <div class="head-image"><img src="{{ site.url }}/assets/{{ tag.header-img }}"/></div>
   <br/>{% endif %}
   
-  <style>
-  .myAd1190 { display:block; width:98%; height: 280px; }
-  @media(min-width: 600px) { .myAd1190 { display: none; } }
-  </style>
-  <br/>
-      {{ post.content }}
+  {{ post.content }}
 
   {% else %}
     {{ post.excerpt }}
