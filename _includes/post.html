@@ -21,10 +21,9 @@
       {% assign tag = site.featured_tags | where: "slug", tag_slug | first %}
     {% endunless %}
   {% endfor %}
-</article>
 
-  <!-- {% unless include.excerpt %}
-  <div class="markdown-body"> 
+  {% unless include.excerpt %}
+  <div class="markdown-body">
     {% if post.header-img %}
     <div class="head-image"><img src="{{ site.url }}/{% if post.header-img %}assets/{{ post.header-img }}{% endif %}"/>
   </div>
@@ -43,8 +42,9 @@
     {{ post.excerpt }}
   {% endunless %}
 
-  </article> -->
+  </article>
   {% unless include.link_title %}
+
 
   <div class="share">
       <h2>Share this post</h2>
