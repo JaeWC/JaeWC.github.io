@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[Setting] What is Code Reuse"
+title: "[Computer Science] What is Code Reuse"
 subtitle:   "Computer Science"
 categories: etc
 tags: Efficiency
