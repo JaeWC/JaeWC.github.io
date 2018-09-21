@@ -40,7 +40,9 @@ Function-Shared Pattern은 특정 객체에서 하나의 함수를 추출하여 
 
 특정 객체를 prototype으로 하는 객체를 생성해주는 `Object.create()`함수를 사용하여 Instance를 생성한다. 
 `Object.create()`메서드는 지정된 프로토타입 object 및 property를 갖는 새로운 객체를 만든다. 
+Prototypal Pattern은 서로 다른 인스턴스 사이에 method를 공유하기 위해 `prototype chain`을 사용한다. 공유되는 메소드들은 생성하려는 Class 생성자 함수의 **.prototype**이라는 property에 저장되어 있다. 따라서 **.prototype**객체의 속성을 전달받기 위하여 `Object.creat()`를 이용하여 Instance를 생성해야 한다. 
 
 #### Pseudoclassical Instantiation
 
-메소드 자체를 prototype으로 만들어서 Instance를 생성하는 방법이다. 
+메소드 자체를 prototype으로 만들어서 Instance를 생성하는 방법으로 Prototypal Instantiation보다 문법상의 편의성이 높은 방법이다.
+생성자는 `new`키워드를 기준으로 호출되어 인스턴스가 생성되며, 인스턴스는 생성자의 속성들을 참조하기 떄문에 `this`키워드로 생성자의 property를 할당해주어야 한다.
