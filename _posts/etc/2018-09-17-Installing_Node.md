@@ -3,7 +3,7 @@ layout: post
 title: "[Setting] Installing node.js"
 subtitle:   "Setting Environment"
 categories: etc
-tags: Setting
+tags: setting
 comments: true
 ---
 
