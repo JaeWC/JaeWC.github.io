@@ -7,6 +7,8 @@ tags: Underscore
 comments: true
 ---
 
+
+
 ```javascript
 _.identity = (val) => val;
 ```
